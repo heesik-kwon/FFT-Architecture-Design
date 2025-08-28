@@ -1,0 +1,55 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../../fft_final/portfolio/verdi/src/add_sub.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/add_sub_1_0_fac_8_0.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/add_sub_1_2.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/add_sub_2_0.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/add_sub_2_1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/add_sub_2_2.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/add_sub_fac0.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/bf_0_0.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/bf_0_1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/bf_0_2.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/bf_1_0.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/bf_1_1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/bf_1_2.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/bf_2_0.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/bf_2_1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/bf_2_2.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/bit_shift.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/bit_shift_1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/butterfly0.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/butterfly1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/butterfly2.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/cbfp.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/cbfp_1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/cbfp_normalize.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/delay.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/demux_1to2.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/fac_8_1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/fac_8_1_1_1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/fac_8_1_2_1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/fft_top.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/index_fifo.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/mag.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/mag_1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/min_detect.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/min_detect_1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/mult_tw.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/mux_2x1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/mux_twiddle_input.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/reorder.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/sat.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/shift_register.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/shift_register_1sub.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/twd_512.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/twd_64.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/twiddle_mult_m1.sv" \
+"../../../../../../fft_final/portfolio/verdi/src/twiddle_mult_pipe.sv" \
+"../../../../fft_asic.srcs/sim_1/new/tb_fft.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

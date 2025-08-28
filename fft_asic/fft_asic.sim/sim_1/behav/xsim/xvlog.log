@@ -1,0 +1,96 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/add_sub.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/add_sub_1_0_fac_8_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub_1_0_fac_8_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/add_sub_1_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub_1_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/add_sub_2_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub_2_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/add_sub_2_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub_2_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/add_sub_2_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub_2_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/add_sub_fac0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub_fac0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/bf_0_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_0_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/bf_0_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_0_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/bf_0_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_0_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/bf_1_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_1_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/bf_1_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_1_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/bf_1_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_1_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/bf_2_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_2_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/bf_2_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_2_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/bf_2_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_2_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/bit_shift.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bit_shift_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/bit_shift_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bit_shift_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/butterfly0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/butterfly1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/butterfly2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/cbfp.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cbfp
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/cbfp_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cbfp_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/cbfp_normalize.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cbfp_normalize
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/delay.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module delay
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/demux_1to2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module demux_1to2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/fac_8_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fac8_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/fac_8_1_1_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fac8_1_1_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/fac_8_1_2_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fac8_1_2_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/fft_top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fft_top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/index_fifo.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module index_fifo
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/mag.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mag_detect
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/mag_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mag_detect_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/min_detect.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module min_detect
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/min_detect_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module min_detect_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/mult_tw.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mutl_tw
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/mux_2x1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_2x1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/mux_twiddle_input.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_twiddle_input
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/reorder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reorder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/sat.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sat
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/shift_register.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift_register
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/shift_register_1sub.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift_register_1sub
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/twd_512.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module twiddle_512
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/twd_64.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module twiddle_64
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/twiddle_mult_m1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module twiddle_mult_m1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/fft_final/portfolio/verdi/src/twiddle_mult_pipe.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module twiddle_mult_pipe
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/Levi/Desktop/aisc/fft_asic/fft_asic.srcs/sim_1/new/tb_fft.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_butterfly
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Levi/Desktop/aisc/fft_asic/fft_asic.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
