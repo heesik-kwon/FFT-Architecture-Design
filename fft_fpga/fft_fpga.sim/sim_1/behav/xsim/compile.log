@@ -1,0 +1,98 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_1_0_fac_8_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub_1_0_fac_8_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_1_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub_1_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_2_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub_2_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_2_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub_2_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_2_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub_2_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_fac0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_sub_fac0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/bit_shift.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bit_shift_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/bit_shift_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bit_shift_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_0_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_0_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_0_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_0_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_0_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_0_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_1_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_1_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_1_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_1_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_1_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_1_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_2_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_2_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_2_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_2_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_2_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module butterfly_2_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/cbfp.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cbfp
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/cbfp_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cbfp_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/cbfp_normalize.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cbfp_normalize
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/cos_gen_rom.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cos_gen_rom
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/delay.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module delay
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/demux_1to2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module demux_1to2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/fac8_1_1_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fac8_1_1_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/fac_8_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fac8_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/fac_8_1_2_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fac8_1_2_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/fft_top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fft_top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/index_fifo.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module index_fifo
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/mag.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mag_detect
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/mag_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mag_detect_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/min.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module min_detect
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/min_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module min_detect_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/mutl_tw.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mutl_tw
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/mux_2x1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_2x1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/mux_twiddle_input.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_twiddle_input
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/reorder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reorder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/sat.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sat
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/shift_register.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift_register
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/shift_register_1sub.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift_register_1sub
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/twiddle_512.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module twiddle_512
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/twiddle_64.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module twiddle_64
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/twiddle_mult_m1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module twiddle_mult_m1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/twiddle_mult_pipe.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module twiddle_mult_pipe
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/D_drive_backup/Working/FPGA_AI_25_2/fft_fpga/fft_fpga.srcs/sim_1/new/tb_fft_cos_gen_rom.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_fft_cos_gen_rom
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/D_drive_backup/Working/FPGA_AI_25_2/fft_fpga/fft_fpga.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

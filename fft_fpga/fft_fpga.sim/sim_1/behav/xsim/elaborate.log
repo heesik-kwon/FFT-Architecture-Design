@@ -1,0 +1,80 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 1918773660d8468f9317366a13c3c24b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_fft_cos_gen_rom_behav xil_defaultlib.tb_fft_cos_gen_rom xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.cos_gen_rom
+Compiling module xil_defaultlib.demux_1to2
+Compiling module xil_defaultlib.shift_register_1sub
+Compiling module xil_defaultlib.add_sub_fac0
+Compiling module xil_defaultlib.shift_register_1sub(WIDTH=10)
+Compiling module xil_defaultlib.mux_2x1
+Compiling module xil_defaultlib.butterfly_0_0
+Compiling module xil_defaultlib.demux_1to2(WIDTH=10)
+Compiling module xil_defaultlib.shift_register_1sub(WIDTH=10,DAT...
+Compiling module xil_defaultlib.add_sub(WIDTH=10)
+Compiling module xil_defaultlib.shift_register_1sub(WIDTH=11,DAT...
+Compiling module xil_defaultlib.mux_2x1(WIDTH=11)
+Compiling module xil_defaultlib.fac8_1
+Compiling module xil_defaultlib.butterfly_0_1
+Compiling module xil_defaultlib.demux_1to2(WIDTH=13)
+Compiling module xil_defaultlib.shift_register_1sub(WIDTH=13,DAT...
+Compiling module xil_defaultlib.add_sub(WIDTH=13)
+Compiling module xil_defaultlib.sat(WIDTH=14,SAT_WIDTH=13)
+Compiling module xil_defaultlib.shift_register(WIDTH=13,DATA_HEI...
+Compiling module xil_defaultlib.mux_twiddle_input
+Compiling module xil_defaultlib.twiddle_512
+Compiling module xil_defaultlib.mutl_tw
+Compiling module xil_defaultlib.twiddle_mult_pipe_default
+Compiling module xil_defaultlib.butterfly_0_2
+Compiling module xil_defaultlib.mag_detect
+Compiling module xil_defaultlib.min_detect
+Compiling module xil_defaultlib.shift_register(WIDTH=23,DATA_HEI...
+Compiling module xil_defaultlib.bit_shift_0
+Compiling module xil_defaultlib.cbfp
+Compiling module xil_defaultlib.butterfly_0
+Compiling module xil_defaultlib.demux_1to2(WIDTH=11)
+Compiling module xil_defaultlib.shift_register_1sub(WIDTH=11,DAT...
+Compiling module xil_defaultlib.add_sub_1_0_fac_8_0(WIDTH=11)
+Compiling module xil_defaultlib.shift_register_1sub(WIDTH=12,DAT...
+Compiling module xil_defaultlib.mux_2x1(WIDTH=12)
+Compiling module xil_defaultlib.butterfly_1_0
+Compiling module xil_defaultlib.demux_1to2(WIDTH=12)
+Compiling module xil_defaultlib.delay(WIDTH=12)
+Compiling module xil_defaultlib.add_sub(WIDTH=12)
+Compiling module xil_defaultlib.delay(WIDTH=13)
+Compiling module xil_defaultlib.mux_2x1(WIDTH=13)
+Compiling module xil_defaultlib.fac8_1_1_1
+Compiling module xil_defaultlib.butterfly_1_1
+Compiling module xil_defaultlib.add_sub_1_2(WIDTH=14)
+Compiling module xil_defaultlib.twiddle_64
+Compiling module xil_defaultlib.mutl_tw(WIDTH=15)
+Compiling module xil_defaultlib.twiddle_mult_m1_default
+Compiling module xil_defaultlib.butterfly_1_2
+Compiling module xil_defaultlib.mag_detect_1
+Compiling module xil_defaultlib.min_detect_1_default
+Compiling module xil_defaultlib.bit_shift_1(I_WIDTH=25)
+Compiling module xil_defaultlib.cbfp_1
+Compiling module xil_defaultlib.butterfly_1
+Compiling module xil_defaultlib.add_sub_2_0
+Compiling module xil_defaultlib.butterfly_2_0
+Compiling module xil_defaultlib.add_sub_2_1_default
+Compiling module xil_defaultlib.fac8_1_2_1
+Compiling module xil_defaultlib.butterfly_2_1
+Compiling module xil_defaultlib.add_sub_2_2
+Compiling module xil_defaultlib.index_fifo
+Compiling module xil_defaultlib.cbfp_normalize
+Compiling module xil_defaultlib.reorder
+ERROR: [VRFC 10-536] constant expression required [C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/reorder.sv:33]
+ERROR: [VRFC 10-1302] range index value is not constant [C:/Users/kccistc/Desktop/fft_pga/fft_vi/src/reorder.sv:33]
+Compiling module xil_defaultlib.butterfly_2_2
+Compiling module xil_defaultlib.butterfly_2
+Compiling module xil_defaultlib.fft_top
+Compiling module xil_defaultlib.tb_fft_cos_gen_rom
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_fft_cos_gen_rom_behav

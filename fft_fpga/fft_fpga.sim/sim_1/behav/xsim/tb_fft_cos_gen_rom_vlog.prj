@@ -1,0 +1,56 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../fft_fpga.gen/sources_1/ip/clk_wiz_0" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_1_0_fac_8_0.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_1_2.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_2_0.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_2_1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_2_2.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_fac0.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/bit_shift.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/bit_shift_1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly0.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly2.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_0_0.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_0_1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_0_2.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_1_0.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_1_1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_1_2.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_2_0.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_2_1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_2_2.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/cbfp.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/cbfp_1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/cbfp_normalize.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/cos_gen_rom.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/delay.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/demux_1to2.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/fac8_1_1_1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/fac_8_1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/fac_8_1_2_1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/fft_top.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/index_fifo.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/mag.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/mag_1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/min.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/min_1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/mutl_tw.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/mux_2x1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/mux_twiddle_input.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/reorder.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/sat.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/shift_register.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/shift_register_1sub.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/twiddle_512.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/twiddle_64.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/twiddle_mult_m1.sv" \
+"../../../../../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/twiddle_mult_pipe.sv" \
+"../../../../fft_fpga.srcs/sim_1/new/tb_fft_cos_gen_rom.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

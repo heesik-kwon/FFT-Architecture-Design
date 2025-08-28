@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xczu7ev-fbvb900-1-i" LaunchTime="1756361566">
+  <File Type="BITSTR-BMM" Name="TOP_test_fft_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="TOP_test_fft_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="TOP_test_fft_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="TOP_test_fft_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="TOP_test_fft.tcl"/>
+  <File Type="OPT-TIMING" Name="TOP_test_fft_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="TOP_test_fft_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="TOP_test_fft_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="TOP_test_fft_reports.tcl"/>
+  <File Type="OPT-DRC" Name="TOP_test_fft_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="TOP_test_fft.hwdef"/>
+  <File Type="PWROPT-DCP" Name="TOP_test_fft_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="TOP_test_fft_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="TOP_test_fft_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="TOP_test_fft_placed.dcp"/>
+  <File Type="PLACE-IO" Name="TOP_test_fft_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="TOP_test_fft_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="TOP_test_fft_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="TOP_test_fft_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="TOP_test_fft_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="TOP_test_fft_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="TOP_test_fft_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="TOP_test_fft_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="TOP_test_fft_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="TOP_test_fft.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="TOP_test_fft_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="TOP_test_fft_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="TOP_test_fft_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="TOP_test_fft.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="TOP_test_fft_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="TOP_test_fft_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="TOP_test_fft_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="TOP_test_fft_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="TOP_test_fft_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="TOP_test_fft_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="TOP_test_fft_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="TOP_test_fft.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="TOP_test_fft_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="TOP_test_fft_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="TOP_test_fft_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="TOP_test_fft_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="TOP_test_fft_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="TOP_test_fft_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="TOP_test_fft_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="TOP_test_fft_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="TOP_test_fft_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="TOP_test_fft_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="TOP_test_fft_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="TOP_test_fft_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="TOP_test_fft_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="TOP_test_fft_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="TOP_test_fft_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="TOP_test_fft_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="TOP_test_fft_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="TOP_test_fft_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="TOP_test_fft_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="TOP_test_fft_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="TOP_test_fft_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="TOP_test_fft.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="TOP_test_fft_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="TOP_test_fft.rbt"/>
+  <File Type="BITSTR-NKY" Name="TOP_test_fft.nky"/>
+  <File Type="PDI-FILE" Name="TOP_test_fft.pdi"/>
+  <File Type="RCFI_FILE" Name="TOP_test_fft.rcfi"/>
+  <File Type="CFI_FILE" Name="TOP_test_fft.cfi"/>
+  <File Type="RNPI_FILE" Name="TOP_test_fft.rnpi"/>
+  <File Type="NPI_FILE" Name="TOP_test_fft.npi"/>
+  <File Type="RBD_FILE" Name="TOP_test_fft.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="TOP_test_fft.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="TOP_test_fft.sysdef"/>
+  <File Type="BG-BGN" Name="TOP_test_fft.bgn"/>
+  <File Type="BG-DRC" Name="TOP_test_fft.drc"/>
+  <File Type="RDI-RDI" Name="TOP_test_fft.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_1_0_fac_8_0.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_1_2.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_2_0.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_2_1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_2_2.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/add_sub_fac0.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/bit_shift.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/bit_shift_1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly0.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly2.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_0_0.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_0_1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_0_2.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_1_0.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_1_1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_1_2.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_2_0.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_2_1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/butterfly_2_2.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/cbfp.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/cbfp_1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/cbfp_normalize.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/cos_gen_rom.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/delay.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/demux_1to2.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/fac8_1_1_1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/fac_8_1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/fac_8_1_2_1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/fft_top.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/index_fifo.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/mag.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/mag_1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/min.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/min_1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/mutl_tw.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/mux_2x1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/mux_twiddle_input.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/reorder.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/sat.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/shift_register.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/shift_register_1sub.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/twiddle_512.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/twiddle_64.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/twiddle_mult_m1.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/twiddle_mult_pipe.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/TOP_test_fft.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/cos_rom_re.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/src/cos_rom_im.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="TOP_test_fft"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../../../../Users/kccistc/Desktop/fft_pga/fft_vi/constrs/uz7ev_evcc_factest.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="clk_wiz_0"/>
+  <BlockFileSet Type="BlockSrcs" Name="vio_0"/>
+</GenRun>
